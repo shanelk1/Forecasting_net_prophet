@@ -1,6 +1,7 @@
 # Unit 10: Forecasting Net Prophet
 
-![Decorative image.](Images/unit-10-readme-photo.png)
+![unit-10-readme-photo](https://user-images.githubusercontent.com/89318890/170894001-fb89d847-018a-455c-8010-c80a13e2287a.png)
+
 
 ## Background
 
